@@ -11,7 +11,7 @@ App web 100% offline que transforma qualquer foto em mosaico de emojis ou em min
 - Exporta em PNG ou JPG
 
 ## 🚀 Como usar
-1. Abra https://detiillimichel-max.github.io
+1. Abra https://detiillimichel-max.github.io/emojs-foto-gens/
 2. Envie uma foto
 3. Escolha “Mosaico” ou “Miniatura”
 4. Ajuste o tamanho (recomendado: 64px = meio polegar)
