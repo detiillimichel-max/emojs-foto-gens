@@ -23,3 +23,6 @@ App web 100% offline que transforma qualquer foto em mosaico de emojis ou em min
 - O app já limita o máximo a 1 polegar para não ficar gigante
 
 Criado com HTML/CSS/JS puro — sem servidor, funciona offline.
+© 2026 Michel Detilli.
+Todos os direitos reservados. 
+É permitido usar online. É proibida a cópia, distribuição ou uso comercial do código sem autorização.
