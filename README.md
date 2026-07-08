@@ -1,4 +1,3 @@
-# emojs-foto-gens
 # Detilli Hub – Foto → Emoji
 
 App web 100% offline que transforma qualquer foto em mosaico de emojis ou em miniatura pixelada. Feito por Michel Detilli para o projeto Detilli Hub.
